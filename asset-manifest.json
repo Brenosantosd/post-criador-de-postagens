@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post-criador-de-postagens/static/css/main.c4e01ebe.css",
+    "main.js": "/post-criador-de-postagens/static/js/main.d7e7e792.js",
+    "index.html": "/post-criador-de-postagens/index.html",
+    "main.c4e01ebe.css.map": "/post-criador-de-postagens/static/css/main.c4e01ebe.css.map",
+    "main.d7e7e792.js.map": "/post-criador-de-postagens/static/js/main.d7e7e792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e01ebe.css",
+    "static/js/main.d7e7e792.js"
+  ]
+}
